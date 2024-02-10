@@ -32,6 +32,16 @@ has modular components.
 
 
 # Models, Prompts and Parsers
+Why use a prompt template rather than an F string? -> Same reason we use functions.
+Covered langChain prompt templates libraries and built in prompts.
+Library is great re parsers.
+Also - ReAct - Chain of reasoning templates. (give space to think)
+Use the key words
+Thought:
+Action:
+Observation: 
+Then they can be coupled with a parser to extract the text, tagged with those key words.
+Ie to correctly specify the input, and output....
 
 
 # Memory
